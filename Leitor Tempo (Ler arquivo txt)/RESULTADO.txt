@@ -1,0 +1,21 @@
+O melhor tempo de volta foi do piloto LANDO NORRIS na volta 5 com o tempo de 91.32 segundos.
+
+FELIPE MASSA
+A melhor volta foi a 4 e o tempo foi de 93.43 segundos.
+A pior volta foi a 3 e o tempo foi de 94.805 segundos.
+A media de tempo por volta foi de 93.79260000000001 segundos
+
+LEWIS HAMILTON
+A melhor volta foi a 5 e o tempo foi de 93.33 segundos.
+A pior volta foi a 3 e o tempo foi de 93.935 segundos.
+A media de tempo por volta foi de 93.58160000000001 segundos
+
+JENSON BUTTON
+A melhor volta foi a 4 e o tempo foi de 93.23 segundos.
+A pior volta foi a 3 e o tempo foi de 94.325 segundos.
+A media de tempo por volta foi de 93.5886 segundos
+
+LANDO NORRIS
+A melhor volta foi a 5 e o tempo foi de 91.32 segundos.
+A pior volta foi a 3 e o tempo foi de 95.325 segundos.
+A media de tempo por volta foi de 92.5886 segundos
